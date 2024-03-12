@@ -1,0 +1,12 @@
+---
+title: "About"
+---
+
+About this site
+
+```{r}
+1 + 1
+```
+I am an international student from China, currently studying at the University of Toronto, St. George campus. My major is Economics and Statistics. I am also an enthusiast of bass fishing.
+
+[My CV](Shenzhe_Lu_CV.docx)
